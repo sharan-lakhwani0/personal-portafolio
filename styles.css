@@ -34,6 +34,7 @@ nav{
 
 .logo{
     width: 140px;
+    color: black;
 
 }
 
@@ -70,12 +71,15 @@ nav ul li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
+    color: white;
+   
 
 }
 
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
+    color:black;
 
 }
 
