@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca037406.css",
+    "main.js": "/static/js/main.b74bfa67.js",
+    "static/media/EN-CV_2022_SHARAN_LAKHWANI_TEJWANI.pdf": "/static/media/EN-CV_2022_SHARAN_LAKHWANI_TEJWANI.e30d12b0932e4935b510.pdf",
+    "static/media/work-1.png": "/static/media/work-1.9d70c2239b9cefe78a18.png",
+    "static/media/work-2.png": "/static/media/work-2.893b3d33cde47ed0012c.png",
+    "static/media/work-3.png": "/static/media/work-3.de1df78bf5ca74ec3063.png",
+    "static/media/img_sharan.jpg": "/static/media/img_sharan.69952dac34f6f3582c03.jpg",
+    "static/media/img_sharan_background.jpg": "/static/media/img_sharan_background.1ed985ee6a493dfb9809.jpg",
+    "index.html": "/index.html",
+    "main.ca037406.css.map": "/static/css/main.ca037406.css.map",
+    "main.b74bfa67.js.map": "/static/js/main.b74bfa67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca037406.css",
+    "static/js/main.b74bfa67.js"
+  ]
+}
