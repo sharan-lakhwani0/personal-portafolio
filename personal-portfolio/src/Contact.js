@@ -1,5 +1,6 @@
 import React from 'react';
 import './Contact.css';
+import cv from "./images/EN-CV_2022_SHARAN_LAKHWANI_TEJWANI.pdf";
 
 const Contact = () => {
     return (
@@ -17,7 +18,7 @@ const Contact = () => {
                         <a href="https://es.linkedin.com/" target="_blank"><i className="fa-brands fa-linkedin"></i></a>
                     </div>
 
-                    <a href="images/EN-CV_2022_SHARAN_LAKHWANI_TEJWANI.pdf" download className="btn btn2">Download CV</a>
+                    <a href={cv} download className="btn btn2">Download CV</a>
                 </div>
                 <div className="contact-right">
                     <form>
